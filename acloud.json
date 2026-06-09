@@ -1,12 +1,12 @@
 {
-    "version": "0.1.9",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Arubacloud/acloud-cli/releases/download/v0.1.9/acloud_0.1.9_windows_amd64.zip",
+            "url": "https://github.com/Arubacloud/acloud-cli/releases/download/v0.2.0/acloud_0.2.0_windows_amd64.zip",
             "bin": [
                 "acloud.exe"
             ],
-            "hash": "a508f756e3a56a0f2b219490fc948180266815d911024316ac5ec7e280fe0430"
+            "hash": "35d831a2a5677486df958cafb641834be4164f8b58926111c2995838f68ecbb1"
         }
     },
     "homepage": "https://github.com/Arubacloud/acloud-cli",
